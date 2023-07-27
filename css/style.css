@@ -306,4 +306,5 @@ h6,
 
 .justify-txt{
     text-align: justify!important ;
+    hyphens: auto;
 }
